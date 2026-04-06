@@ -13,7 +13,7 @@ m.VERSIONS = {
     version = "v0.7.0",
     note = "",
     url = m.REPO_BASE_URL .. "v0.7.0.zip",
-    sha256 = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    sha256 = "e84467764403a41816127c63e7e5ac808a7e01ba1d30e4a3c2279baa07ad46be",
   },
 }
 
