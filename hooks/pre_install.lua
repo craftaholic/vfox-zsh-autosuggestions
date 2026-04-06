@@ -22,6 +22,7 @@ function PLUGIN:PreInstall(ctx)
   return {
     version = version,
     url = versionInfo.url,
-    note = "Installing oh-my-zsh " .. version,
+    note = versionInfo.note,
+    sha256 = versionInfo.sha256,
   }
 end

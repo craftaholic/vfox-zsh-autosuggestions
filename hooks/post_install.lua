@@ -1,5 +1,5 @@
 --- Extension point, called after PreInstall
---- Runs the oh-my-zsh install script from fork
+--- zsh-autosuggestions requires no post-install configuration
 --- @param ctx table
 --- @field ctx.rootPath string SDK installation directory
 --- @field ctx.version string Version being installed
