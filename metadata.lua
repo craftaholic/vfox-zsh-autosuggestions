@@ -5,7 +5,7 @@ PLUGIN = {}
 --- Plugin name
 PLUGIN.name = "zsh-autosuggestions"
 --- Plugin version
-PLUGIN.version = "0.1.0"
+PLUGIN.version = "0.1.1"
 --- Plugin homepage
 PLUGIN.homepage = "https://github.com/craftaholic/vfox-zsh-autosuggestions"
 --- Plugin license, please choose a correct license according to your needs.
